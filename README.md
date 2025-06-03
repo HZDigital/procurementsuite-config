@@ -6,15 +6,6 @@ This repository contains configuration files for different deployments of the Pr
 
 The configuration files in this repository control various UI features, branding elements, and functionality options for different instances of the Procurement Suite.
 
-## Configuration Files
-
-### [4c_config.json](4c_config.json)
-
-Configuration for the 4C deployment with the following customizations:
-- Custom header logo
-- Partner logos on the homepage
-- Feature toggles for various application components
-
 ## Configuration Structure
 
 Each configuration file follows this general structure:
