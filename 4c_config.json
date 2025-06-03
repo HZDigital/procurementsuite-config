@@ -1,0 +1,31 @@
+{
+  "header_logo": "https://digitalestadtmuenchen.de/wp-content/uploads/2018/10/logo-4c-1.png",
+  "homepage_logos": [
+    {
+      "url": "https://www.lego.com/de-de",
+      "logo": "https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F03%2FLEGO_logo.png&sp=1748941678T2743f37ca5d05d9b0adacbbae43878936e475d7ad89132d7cc168297537df737"
+    },
+    {
+      "url": "https://store.steampowered.com/",
+      "logo": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.generation4x4mag.fr%2Fwp-content%2Fuploads%2F2022%2F12%2FSteam-logo-png.png&sp=1748941727T0a26d546b059c18a000b9337873831a781c0b57cbeeca6acb4a23aaa534823f6"
+    },
+    {
+      "url": "https://www.nintendo.de/",
+      "logo": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F11%2FNintendo-Logo-1983-2008.png&sp=1748941764Tf8bc10fcba730ea8c310cf708a1db743b5e308a36a1a96368c0757a07ddd900a"
+    },
+    {
+      "url": "https://www.hp.com/de-de/home.html",
+      "logo": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpurepng.com%2Fpublic%2Fuploads%2Flarge%2Fpurepng.com-hp-logologobrand-logoiconslogos-2515199390657l82v.png&sp=1748941902T518530189a87c3e4744c380094c28567a5f23a220fa338a55b4d67f320c4e271"
+    },
+    {
+      "url": "https://www.spotify.com/de/",
+      "logo": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flogospng.org%2Fdownload%2Fspotify%2Flogo-spotify-icon-4096.png&sp=1748941939T8d88763cd89a1d776db7a7a36b45df2d779bc3301a241bd8ee9bd6112df615f2"
+    }
+  ],
+  "hide_chat": false,
+  "hide_transcription": true,
+  "hide_bullseye": true,
+  "hide_service_savings": true,
+  "hide_sentiment_analysis": true,
+  "hide_retail_analytics": true
+}
