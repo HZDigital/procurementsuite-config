@@ -1,5 +1,8 @@
 {
-  "header_logo": "https://digitalestadtmuenchen.de/wp-content/uploads/2018/10/logo-4c-1.png",
+  "header_logo": {
+    "light": "https://github.com/HZDigital/procurementsuite-config/blob/main/4C_logo_dark.png?raw=true",
+    "dark": "https://www.4cgroup.com/templates/4cblog2024/img/4C_logo_white.png"
+  },
   "homepage_logos": [
     {
       "url": "https://www.lego.com/de-de",
