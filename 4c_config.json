@@ -3,28 +3,7 @@
     "light": "https://github.com/HZDigital/procurementsuite-config/blob/main/4C_logo_dark.png?raw=true",
     "dark": "https://www.4cgroup.com/templates/4cblog2024/img/4C_logo_white.png"
   },
-  "homepage_logos": [
-    {
-      "url": "https://www.lego.com/de-de",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg"
-    },
-    {
-      "url": "https://store.steampowered.com/",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"
-    },
-    {
-      "url": "https://www.nintendo.de/",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Nintendo_red_logo.svg"
-    },
-    {
-      "url": "https://www.hp.com/de-de/home.html",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg"
-    },
-    {
-      "url": "https://www.spotify.com/de/",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
-    }
-  ],
+  "homepage_logos": [],
   "hide_chat": false,
   "hide_transcription": true,
   "hide_bullseye": true,
