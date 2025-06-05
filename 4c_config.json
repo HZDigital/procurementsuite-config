@@ -9,5 +9,6 @@
   "hide_bullseye": true,
   "hide_service_savings": true,
   "hide_sentiment_analysis": true,
-  "hide_retail_analytics": true
+  "hide_retail_analytics": true,
+  "welcome_message": "Hi, I am 4C:me.\nHow can I help you today?"
 }
