@@ -1,8 +1,9 @@
 {
   "header_logo": {
-    "light": "https://github.com/HZDigital/procurementsuite-config/blob/main/4C_logo_dark.png?raw=true",
+    "light": "https://hzdigital.github.io/procurementsuite-config/4C_logo_dark.png",
     "dark": "https://www.4cgroup.com/templates/4cblog2024/img/4C_logo_white.png"
   },
+  "loading_logo": "https://hzdigital.github.io/procurementsuite-config/4C_loading.png",
   "homepage_logos": [],
   "hide_chat": false,
   "hide_transcription": false,
