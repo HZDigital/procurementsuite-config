@@ -5,7 +5,7 @@
   },
   "homepage_logos": [],
   "hide_chat": false,
-  "hide_transcription": true,
+  "hide_transcription": false,
   "hide_bullseye": true,
   "hide_service_savings": true,
   "hide_sentiment_analysis": true,
