@@ -5,11 +5,31 @@
   },
   "login_logo": "https://hzdigital.github.io/procurementsuite-config/4C_loading.png",
   "homepage_logos": [],
-  "hide_chat": false,
-  "hide_transcription": false,
-  "hide_bullseye": true,
-  "hide_service_savings": true,
-  "hide_sentiment_analysis": true,
-  "hide_retail_analytics": true,
+  "landing_cards": {
+    "lizzy-chat": {
+      "hide": false,
+      "title": "4C:me",
+      "subtitle": "4C:me",
+      "description": "Chat with 4C:me, our AI assistant, to get answers to your questions and help you with your projects."
+    },
+    "lizzy-transcription": {
+      "hide": false,
+      "title": "4C:me Transcription",
+      "subtitle": "Transcription",
+      "description": "Transcribe and edit your client interviews and assign names to speakers - all within a 4C secure environment and free of charge."
+    },
+    "bullseye": {
+      "hide": true
+    },
+    "service-savings": {
+      "hide": true
+    },
+    "sentiment-analysis": {
+      "hide": true
+    },
+    "retail-analytics": {
+      "hide": true
+    }
+  },
   "welcome_message": "Hi, I am 4C:me.\nHow can I help you today?"
 }
