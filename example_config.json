@@ -27,5 +27,7 @@
   "hide_bullseye": true,
   "hide_service_savings": true,
   "hide_sentiment_analysis": true,
-  "hide_retail_analytics": true
+  "hide_retail_analytics": true,
+  "chat_model_help_link": "www.google.com"
+
 }
