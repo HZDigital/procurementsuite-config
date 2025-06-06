@@ -1,5 +1,6 @@
 :root {
     --primary: 28, 100%, 50% !important;
     --primary-foreground: 0, 0%, 100% !important;
-    --hand: 231, 33%, 84% !important;
+    --heart: 231, 33%, 84% !important;
+    --hand: 195, 62%, 75% !important;  
 }
