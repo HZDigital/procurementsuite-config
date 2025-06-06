@@ -33,5 +33,7 @@
   },
   "welcome_message": "Hi, I am 4C:mi.\nHow can I help you today?",
   "favicon": "https://hzdigital.github.io/procurementsuite-config/4C_favicon.ico",
-  "tab_text": "4C:mi Safe AI Platform"
+  "tab_text": "4C:mi Safe AI Platform",
+  "chat_prompt": "Send a message or question to 4C:mi...",
+  "chat_secure_message": "All chats are confidential. Your data stays within 4C's secure Azure EU infrastructure and is never shared externally."
 }
