@@ -8,13 +8,13 @@
   "landing_cards": {
     "lizzy-chat": {
       "hide": false,
-      "title": "4C:mi",
-      "tag": "4C:mi",
-      "description": "Chat with 4C:mi, our AI assistant, to get answers to your questions and help you with your projects."
+      "title": "4C:me",
+      "tag": "4C:me",
+      "description": "Chat with 4C:me, our AI assistant, to get answers to your questions and help you with your projects."
     },
     "lizzy-transcription": {
       "hide": false,
-      "title": "4C:mi Transcription",
+      "title": "4C:me Transcription",
       "tag": "Transcription",
       "description": "Transcribe and edit your client interviews and assign names to speakers - all within a 4C secure environment and free of charge."
     },
@@ -31,9 +31,9 @@
       "hide": true
     }
   },
-  "welcome_message": "Hi, I am 4C:mi.\nHow can I help you today?",
+  "welcome_message": "Hi, I am 4C:me.\nHow can I help you today?",
   "favicon": "https://hzdigital.github.io/procurementsuite-config/4C_favicon.ico",
-  "tab_text": "4C:mi Safe AI Platform",
-  "chat_prompt": "Send a message or question to 4C:mi...",
+  "tab_text": "4C:me Safe AI Platform",
+  "chat_prompt": "Send a message or question to 4C:me...",
   "chat_secure_message": "All chats are confidential. Your data stays within 4C's secure Azure EU infrastructure and is never shared externally."
 }
