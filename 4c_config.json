@@ -38,5 +38,9 @@
   "chat_secure_message": "All chats are confidential. Your data stays within 4C's secure Azure EU infrastructure and is never shared externally.",
   "chat_model_help_link": "https://4cgroupag.sharepoint.com/SitePages/4Cme.aspx?ct=1752753858060&or=Teams-HL&ga=1",
   "hide_sentry_button": true,
-  "hide_deep_research": true
+  "hide_deep_research": true,
+  "disabled_models": [
+    "gpt-5",
+    "o3-deep-research"
+  ]
 }
