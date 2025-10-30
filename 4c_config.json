@@ -41,6 +41,7 @@
   "chat_model_help_link": "https://4cgroupag.sharepoint.com/SitePages/4Cme.aspx?ct=1752753858060&or=Teams-HL&ga=1",
   "hide_sentry_button": true,
   "hide_deep_research": true,
+  "hide_n8n": true,
   "disabled_models": [
     "gpt-5",
     "o3-deep-research"
