@@ -1,3 +1,4 @@
 {
-  "hide_mcp": false
+  "hide_mcp": false,
+  "hide_short_term_memory": true
 }
