@@ -10,7 +10,8 @@
       "hide": false,
       "title": "4C:me",
       "tag": "4C:me",
-      "description": "Chat with 4C:me, our AI assistant, to get answers to your questions and help you with your projects."
+      "description": "Chat with 4C:me, our AI assistant, to get answers to your questions and help you with your projects.",
+      "callToAction": "Chat with 4C:me"
     },
     "lizzy-transcription": {
       "hide": false,
