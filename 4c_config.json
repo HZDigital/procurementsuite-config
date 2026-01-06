@@ -46,5 +46,6 @@
   "disabled_models": [
     "gpt-5",
     "o3-deep-research"
-  ]
+  ],
+  "hide_intro_when_logged_in": true
 }
