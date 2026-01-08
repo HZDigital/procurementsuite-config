@@ -1,5 +1,8 @@
 {
   "hide_mcp": false,
   "hide_short_term_memory": true,
+  "disabled_models": [
+    "grok-3"
+  ],
   "tab_text": "H&Z GenAI Platform"
 }
