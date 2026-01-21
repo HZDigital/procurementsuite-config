@@ -44,7 +44,6 @@
   "hide_deep_research": true,
   "hide_n8n": true,
   "disabled_models": [
-    "gpt-5",
     "grok-3",
     "o3-deep-research"
   ],
