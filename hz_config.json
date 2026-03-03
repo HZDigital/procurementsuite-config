@@ -1,6 +1,6 @@
 {
   "hide_mcp": false,
-  "hide_short_term_memory": true,
+  "hide_short_term_memory": false,
   "disabled_models": [
     "grok-3"
   ],
