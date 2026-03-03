@@ -43,6 +43,8 @@
   "hide_sentry_button": true,
   "hide_deep_research": false,
   "hide_n8n": true,
+  "hide_file_analyzer": true,
+  "hide_linkedin": true,
   "disabled_models": [
     "gpt-5",
     "o3-deep-research"
