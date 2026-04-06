@@ -50,5 +50,6 @@
     "grok-3",
     "o3-deep-research"
   ],
-  "hide_intro_when_logged_in": true
+  "hide_intro_when_logged_in": true,
+  "documentation_url": "https://agreeable-ocean-07a570403-4c.westeurope.2.azurestaticapps.net"
 }
