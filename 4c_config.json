@@ -51,5 +51,14 @@
     "o3-deep-research"
   ],
   "hide_intro_when_logged_in": true,
-  "documentation_url": "https://agreeable-ocean-07a570403-4c.westeurope.2.azurestaticapps.net"
+  "documentation_url": "https://agreeable-ocean-07a570403-4c.westeurope.2.azurestaticapps.net",
+  "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
+  "lizzy_stats_frontend_sites": [
+    "https://4cme.4cgroup.net/*"
+  ],
+  "lizzy_stats_backend_sites": [
+    "https://genai-4cmi-backend.purpleflower-61573631.westeurope.azurecontainerapps.io/*",
+    "https://genai-4cmi-backend-staging.livelydesert-41b32831.westeurope.azurecontainerapps.io/*",
+    "http://graph8-4cme.kindpebble-d73a9f55.westeurope.azurecontainerapps.io/*"
+  ]
 }

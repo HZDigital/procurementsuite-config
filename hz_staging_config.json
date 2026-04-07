@@ -1,4 +1,15 @@
 {
   "hide_mcp": false,
-  "tab_text": "H&Z GenAI Platform"
+  "tab_text": "H&Z GenAI Platform",
+  "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
+  "lizzy_stats_frontend_sites": [
+    "https://ai.hz.group/*",
+    "https://lizzy.hz.group/*",
+    "https://genai.hz.group"
+  ],
+  "lizzy_stats_backend_sites": [
+    "https://divi.calmwater-3b784186.germanywestcentral.azurecontainerapps.io/*",
+    "https://divi-staging.salmondesert-1226a421.germanywestcentral.azurecontainerapps.io/*",
+    "http://graph8.wittyrock-857cbce7.germanywestcentral.azurecontainerapps.io/*"
+  ]
 }
