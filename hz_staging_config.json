@@ -8,7 +8,8 @@
     "https://genai.hz.group"
   ],
   "lizzy_stats_backend_sites": [
-    "https://divi-staging.salmondesert-1226a421.germanywestcentral.azurecontainerapps.io/*"
+    "https://divi-staging.salmondesert-1226a421.germanywestcentral.azurecontainerapps.io/*",
+    "http://graph8.wittyrock-857cbce7.germanywestcentral.azurecontainerapps.io/*"
   ],
   "lizzy_stats_agent_search_sites": [
     "https://genaispeechtotextapi.azure-api.net/divi-ai-search-staging/*",
