@@ -55,8 +55,10 @@
     "https://4cme.4cgroup.net/*"
   ],
   "lizzy_stats_backend_sites": [
-    "https://genai-4cmi-backend.purpleflower-61573631.westeurope.azurecontainerapps.io/*",
-    "https://genai-4cmi-backend-staging.livelydesert-41b32831.westeurope.azurecontainerapps.io/*",
-    "http://graph8-4cme.kindpebble-d73a9f55.westeurope.azurecontainerapps.io/*"
+    "https://genai-4cmi-backend-staging.livelydesert-41b32831.westeurope.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_agent_search_sites": [
+    "https://gen-ai-4cmi-api-management.azure-api.net/lizzy-ai-search-api-staging/*",
+    "https://ai-search-4cme-staging.salmonwater-2d06c69b.westeurope.azurecontainerapps.io/*"
   ]
 }
