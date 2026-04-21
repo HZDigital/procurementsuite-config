@@ -52,7 +52,7 @@
   "hide_intro_when_logged_in": true,
   "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
   "lizzy_stats_frontend_sites": [
-    "https://4cme.4cgroup.net/*"
+    "https://brave-island-04082d603-staging.westeurope.6.azurestaticapps.net/*"
   ],
   "lizzy_stats_backend_sites": [
     "https://genai-4cmi-backend.purpleflower-61573631.westeurope.azurecontainerapps.io/*",
