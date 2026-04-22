@@ -50,6 +50,7 @@
     "o3-deep-research"
   ],
   "hide_intro_when_logged_in": true,
+  "documentation_url": "https://agreeable-ocean-07a570403-4c.westeurope.2.azurestaticapps.net",
   "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
   "lizzy_stats_frontend_sites": [
     "https://brave-island-04082d603-staging.westeurope.6.azurestaticapps.net/*"
