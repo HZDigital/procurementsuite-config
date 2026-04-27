@@ -45,6 +45,7 @@
   "hide_n8n": true,
   "hide_file_analyzer": true,
   "hide_linkedin": true,
+  "hide_marketing": true,
   "disabled_models": [
     "gpt-5",
     "o3-deep-research"
