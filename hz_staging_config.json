@@ -2,6 +2,7 @@
   "hide_mcp": false,
   "tab_text": "H&Z GenAI Platform",
   "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
+  "hide_marketing": true,
   "lizzy_stats_frontend_sites": [
     "https://ai.hz.group/*",
     "https://lizzy.hz.group/*",
