@@ -31,6 +31,9 @@
     },
     "retail-analytics": {
       "hide": true
+    },
+    "ai-frenzy": {
+      "hide": true
     }
   },
   "hide_mcp": false,
