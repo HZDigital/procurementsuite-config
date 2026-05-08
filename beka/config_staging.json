@@ -1,0 +1,48 @@
+{
+  "landing_cards": {
+    "lizzy-chat": {
+      "hide": false,
+      "title": "Lizzy",
+      "tag": "Lizzy",
+      "description": "Chat with Lizzy, our AI assistant, to get answers to your questions and help you with your projects.",
+      "callToAction": "Chat with Lizzy"
+    },
+    "lizzy-transcription": {
+      "hide": false,
+      "title": "Lizzy Transcription",
+      "tag": "Transcription",
+      "description": "Transcribe and edit your client interviews and assign names to speakers - all within a Lizzy secure environment and free of charge."
+    },
+    "bullseye": {
+      "hide": true
+    },
+    "service-savings": {
+      "hide": true
+    },
+    "sentiment-analysis": {
+      "hide": true
+    },
+    "retail-analytics": {
+      "hide": true
+    }
+  },
+  "hide_mcp": false,
+  "hide_image_generation": false,
+  "welcome_message": "Hi, I am Lizzy.\nHow can I help you today?",
+  "favicon": "https://www.beka.de/media/templates/site/beka.de/favicon.ico",
+  "tab_text": "Deka Safe AI Platform",
+  "chat_prompt": "Send a message or question to Lizzy...",
+  "chat_secure_message": "All chats are confidential. Your data stays within Deka's secure Azure EU infrastructure and is never shared externally.",
+  
+  "hide_sentry_button": true,
+  "hide_deep_research": false,
+  "hide_n8n": true,
+  "hide_file_analyzer": true,
+  "hide_linkedin": true,
+  "hide_marketing": true,
+  "disabled_models": [
+    "gpt-5",
+    "o3-deep-research"
+  ],
+  "hide_intro_when_logged_in": true
+}

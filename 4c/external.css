@@ -1,0 +1,12 @@
+:root {
+    --orange: 28, 100%, 50% !important;
+    --skyline: 231, 33%, 84% !important;
+    --baby: 195, 62%, 75% !important;
+
+    --primary: var(--orange) !important;
+    --primary-hover: var(--baby) !important;
+    --primary-foreground: 0, 0%, 100% !important;
+    --head: var(--orange) !important;
+    --heart: var(--skyline) !important;
+    --hand: var(--baby) !important;
+}

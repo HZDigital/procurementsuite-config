@@ -1,0 +1,13 @@
+:root {
+  --red: 352, 82%, 46%;
+  --green: 67.25, 81.82%, 49.61%;
+  --blue: 205, 100%, 35.29%;
+
+  --primary: var(--blue) !important;
+  --primary-hover: var(--green) !important;
+  --primary-foreground: 0 0% 100% !important;
+  --head: var(--green) !important;
+  --heart: var(--blue) !important;
+  --hand: var(--red) !important;
+  --destructive: var(--red) !important;
+}
