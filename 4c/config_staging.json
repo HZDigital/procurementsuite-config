@@ -62,5 +62,8 @@
   "lizzy_stats_backend_sites": [
     "https://genai-4cmi-backend-staging.livelydesert-41b32831.westeurope.azurecontainerapps.io/*",
     "http://graph8-4cme.kindpebble-d73a9f55.westeurope.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_agent_search_sites": [
+    "http://ai-search-4cme-staging.salmonwater-2d06c69b.westeurope.azurecontainerapps.io/*"
   ]
 }
