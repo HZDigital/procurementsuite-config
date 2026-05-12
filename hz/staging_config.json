@@ -3,9 +3,6 @@
   "tab_text": "H&Z GenAI Platform",
   "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
   "lizzy_stats_frontend_sites": [
-    "https://ai.hz.group/*",
-    "https://lizzy.hz.group/*",
-    "https://genai.hz.group",
     "https://witty-forest-005052a03-staging.westeurope.5.azurestaticapps.net/*"
   ],
   "lizzy_stats_backend_sites": [
