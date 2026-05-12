@@ -5,7 +5,8 @@
   "lizzy_stats_frontend_sites": [
     "https://ai.hz.group/*",
     "https://lizzy.hz.group/*",
-    "https://genai.hz.group"
+    "https://genai.hz.group",
+    "https://witty-forest-005052a03-staging.westeurope.5.azurestaticapps.net/*"
   ],
   "lizzy_stats_backend_sites": [
     "https://divi.calmwater-3b784186.germanywestcentral.azurecontainerapps.io/*",
