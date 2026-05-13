@@ -11,5 +11,8 @@
   ],
   "lizzy_stats_agent_search_sites": [
     "http://divi-ai-search-staging-app.whitepond-e434054b.germanywestcentral.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_backend_server_names": [
+    "divi-staging--*"
   ]
 }
