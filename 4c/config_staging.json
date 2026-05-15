@@ -65,5 +65,8 @@
   ],
   "lizzy_stats_agent_search_sites": [
     "http://ai-search-4cme-staging.salmonwater-2d06c69b.westeurope.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_backend_server_names": [
+    "genai-4cmi-backend-staging--*"
   ]
 }
