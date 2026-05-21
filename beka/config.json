@@ -52,5 +52,6 @@
     "grok-3",
     "o3-deep-research"
   ],
-  "hide_intro_when_logged_in": false
+  "hide_intro_when_logged_in": false,
+  "documentation_url": "https://agreeable-ocean-07a570403.2.azurestaticapps.net/docs/2026-05-14/intro"
 }
