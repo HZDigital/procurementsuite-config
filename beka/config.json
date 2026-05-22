@@ -4,6 +4,8 @@
     "dark": "https://hzdigital.github.io/procurementsuite-config/beka/logo_white.png"
   },
   "login_logo": "https://hzdigital.github.io/procurementsuite-config/beka/logo_dark.png",
+  "platform_url": "https://www.beka.de",
+  "homepage_logos": [],
   "landing_cards": {
     "lizzy-chat": {
       "hide": false,
