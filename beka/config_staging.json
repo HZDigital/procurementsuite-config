@@ -37,7 +37,7 @@
   "hide_mcp": false,
   "hide_image_generation": false,
   "welcome_message": "Hi, I am bekKI.\nHow can I help you today?",
-  "favicon": "https://www.beka.de/media/templates/site/beka.de/favicon.ico",
+  "favicon": "https://www.beka.de/wp-content/uploads/2026/02/favicon.png",
   "tab_text": "bekKI Safe AI Platform",
   "chat_prompt": "Send a message or question to bekKI...",
   "chat_secure_message": "All chats are confidential. Your data stays within bekKI's secure Azure EU infrastructure and is never shared externally.",
@@ -53,5 +53,5 @@
     "o3-deep-research"
   ],
   "hide_intro_when_logged_in": false,
-  "documentation_url": "https://agreeable-ocean-07a570403.2.azurestaticapps.net/docs/2026-05-14/intro"
+  "documentation_url": "https://nice-stone-076420803.7.azurestaticapps.net/docs/2026-05-14/intro"
 }
