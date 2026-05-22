@@ -1,17 +1,22 @@
 {
+  "header_logo": {
+    "light": "https://hzdigital.github.io/procurementsuite-config/beka/logo_dark.png",
+    "dark": "https://hzdigital.github.io/procurementsuite-config/beka/logo_white.png"
+  },
+  "login_logo": "https://hzdigital.github.io/procurementsuite-config/beka/logo_dark.png",
   "landing_cards": {
     "lizzy-chat": {
       "hide": false,
-      "title": "Lizzy",
-      "tag": "Lizzy",
-      "description": "Chat with Lizzy, our AI assistant, to get answers to your questions and help you with your projects.",
-      "callToAction": "Chat with Lizzy"
+      "title": "bekKI",
+      "tag": "bekKI",
+      "description": "Chat with bekKI, our AI assistant, to get answers to your questions and help you with your projects.",
+      "callToAction": "Chat with bekKI"
     },
     "lizzy-transcription": {
       "hide": false,
-      "title": "Lizzy Transcription",
+      "title": "bekKI Transcription",
       "tag": "Transcription",
-      "description": "Transcribe and edit your client interviews and assign names to speakers - all within a Lizzy secure environment and free of charge."
+      "description": "Transcribe and edit your client interviews and assign names to speakers - all within a bekKI secure environment and free of charge."
     },
     "bullseye": {
       "hide": true
@@ -24,25 +29,29 @@
     },
     "retail-analytics": {
       "hide": true
+    },
+    "ai-frenzy": {
+      "hide": true
     }
   },
   "hide_mcp": false,
   "hide_image_generation": false,
-  "welcome_message": "Hi, I am Lizzy.\nHow can I help you today?",
+  "welcome_message": "Hi, I am bekKI.\nHow can I help you today?",
   "favicon": "https://www.beka.de/media/templates/site/beka.de/favicon.ico",
-  "tab_text": "Deka Safe AI Platform",
-  "chat_prompt": "Send a message or question to Lizzy...",
-  "chat_secure_message": "All chats are confidential. Your data stays within Deka's secure Azure EU infrastructure and is never shared externally.",
-  
+  "tab_text": "bekKI Safe AI Platform",
+  "chat_prompt": "Send a message or question to bekKI...",
+  "chat_secure_message": "All chats are confidential. Your data stays within bekKI's secure Azure EU infrastructure and is never shared externally.",
+  "chat_model_help_link": "",
   "hide_sentry_button": true,
-  "hide_deep_research": false,
+  "hide_deep_research": true,
   "hide_n8n": true,
   "hide_file_analyzer": true,
   "hide_linkedin": true,
   "hide_marketing": true,
   "disabled_models": [
-    "gpt-5",
+    "grok-3",
     "o3-deep-research"
   ],
-  "hide_intro_when_logged_in": true
+  "hide_intro_when_logged_in": false,
+  "documentation_url": "https://agreeable-ocean-07a570403.2.azurestaticapps.net/docs/2026-05-14/intro"
 }
