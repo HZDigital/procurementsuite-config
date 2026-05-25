@@ -50,6 +50,7 @@
   "hide_file_analyzer": true,
   "hide_linkedin": true,
   "hide_marketing": true,
+  "hide_hr_corner": true,
   "disabled_models": [
     "grok-3",
     "o3-deep-research"

@@ -49,6 +49,7 @@
   "hide_file_analyzer": true,
   "hide_linkedin": true,
   "hide_marketing": true,
+  "hide_hr_corner": true,
   "disabled_models": [
     "gpt-5",
     "o3-deep-research"
