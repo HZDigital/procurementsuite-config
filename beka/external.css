@@ -8,10 +8,13 @@
   --blue: 218.79 70.21% 27.65%;
 
   --primary: var(--blue) !important;
-  --primary-hover: var(--green) !important;
   --primary-foreground: 0 0% 100% !important;
+
   --head: var(--green) !important;
   --heart: var(--blue) !important;
   --hand: var(--red) !important;
+
   --destructive: var(--red) !important;
+  --gradient-primary: var(--green) !important;
+  --gradient-secondary: var(--blue) !important;
 }
