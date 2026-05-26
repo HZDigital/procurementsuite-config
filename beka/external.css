@@ -3,9 +3,9 @@
 :root {
   --font-sans: 'Roboto Slab', serif;
 
-  --red: 352, 82%, 46%;
-  --green: 64.14, 69.05%, 49.41%;
-  --blue: 218.79, 70.21%, 27.65%;
+  --red: 352 82% 46%;
+  --green: 64.14 69.05% 49.41%;
+  --blue: 218.79 70.21% 27.65%;
 
   --primary: var(--blue) !important;
   --primary-hover: var(--green) !important;
