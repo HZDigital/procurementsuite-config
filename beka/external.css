@@ -1,11 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
-
 :root {
-  --font-sans: 'Roboto Slab', serif;
-
-  --red: 352 82% 46%;
-  --green: 64.14 69.05% 49.41%;
-  --blue: 218.79 70.21% 27.65%;
+  --red: 352, 82%, 46%;
+  --green: 67.25, 81.82%, 49.61%;
+  --blue: 205, 100%, 35.29%;
 
   --primary: var(--blue) !important;
   --primary-hover: var(--green) !important;
