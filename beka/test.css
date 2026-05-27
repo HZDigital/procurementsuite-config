@@ -15,6 +15,6 @@
   --hand: var(--red) !important;
 
   --destructive: var(--red) !important;
-  --gradient-primary: var(--green) !important;
-  --gradient-secondary: var(--blue) !important;
+  --gradient-primary: var(--blue) !important;
+  --gradient-secondary: var(--green) !important;
 }
