@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lizzy has moved</title>
+  <style>
+    :root {
+      --blue: #4b96d2;
+      --orange: #ff8c41;
+      --pink: #d8356e;
+      --ink: #1f2430;
+      --muted: #6b7280;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #ffffff;
+      color: var(--ink);
+      text-align: center;
+      padding: 2rem 1.5rem;
+    }
+
+    .logo {
+      height: 52px;
+      width: auto;
+      margin-bottom: 2.5rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+      color: var(--muted);
+      max-width: 540px;
+      line-height: 1.6;
+      margin-bottom: 2.25rem;
+    }
+
+    p strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .btn {
+      display: inline-block;
+      background: linear-gradient(90deg, var(--orange) 0%, var(--pink) 100%);
+      color: #fff;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 0.95rem 2.6rem;
+      border-radius: 50px;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      box-shadow: 0 8px 22px rgba(216, 53, 110, 0.28);
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 28px rgba(216, 53, 110, 0.36);
+    }
+
+    .btn:active {
+      transform: translateY(-1px);
+    }
+  </style>
+</head>
+<body>
+  <img class="logo" src="https://lizzy.hz.group/assets/hz-logo-new.svg" alt="H&Z" />
+
+  <p>
+    <strong>ai.hz.group</strong> and <strong>genai.hz.group</strong> have been sunset.
+    <br/>
+    Lizzy now lives at <strong>lizzy.hz.group</strong>.
+  </p>
+
+  <a class="btn" href="https://lizzy.hz.group">Open Lizzy</a>
+</body>
+</html>
