@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Meet Lizzy</title>
+  <title>Lizzy has moved</title>
   <style>
     :root {
       --blue: #4b96d2;
@@ -11,8 +11,6 @@
       --pink: #d8356e;
       --ink: #1f2430;
       --muted: #6b7280;
-      --card-bg: #f7f8fa;
-      --border: #eceef1;
     }
 
     * {
@@ -35,30 +33,22 @@
     }
 
     .logo {
-      height: 48px;
+      height: 52px;
       width: auto;
-      margin-bottom: 3rem;
+      margin-bottom: 2.5rem;
     }
 
-    h1 {
-      font-size: clamp(2rem, 6vw, 3.5rem);
-      font-weight: 800;
-      line-height: 1.1;
-      letter-spacing: -0.02em;
-      background: linear-gradient(90deg, var(--orange) 0%, var(--pink) 100%);
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-      color: transparent;
-      margin-bottom: 1.25rem;
-    }
-
-    .subtitle {
-      font-size: 1.15rem;
+    p {
+      font-size: 1.1rem;
       color: var(--muted);
-      max-width: 620px;
-      line-height: 1.55;
-      margin-bottom: 2.75rem;
+      max-width: 540px;
+      line-height: 1.6;
+      margin-bottom: 2.25rem;
+    }
+
+    p strong {
+      color: var(--ink);
+      font-weight: 600;
     }
 
     .btn {
@@ -82,77 +72,16 @@
     .btn:active {
       transform: translateY(-1px);
     }
-
-    .features {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
-      max-width: 1000px;
-      width: 100%;
-      margin-top: 4rem;
-    }
-
-    .feature {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 1.75rem 1.5rem;
-      text-align: left;
-    }
-
-    .feature .icon {
-      font-size: 1.4rem;
-      display: inline-block;
-      margin-bottom: 0.85rem;
-    }
-
-    .feature h3 {
-      font-size: 1.05rem;
-      font-weight: 700;
-      margin-bottom: 0.4rem;
-    }
-
-    .feature p {
-      font-size: 0.95rem;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-
-    @media (max-width: 720px) {
-      .features {
-        grid-template-columns: 1fr;
-        margin-top: 3rem;
-      }
-    }
   </style>
 </head>
 <body>
   <img class="logo" src="https://lizzy.hz.group/assets/hz-logo-new.svg" alt="H&Z" />
 
-  <h1>Hi, I am Lizzy.<br />How can I help you today?</h1>
-  <p class="subtitle">
-    Save countless hours with our AI-driven platform, transcribing and analyzing
-    interviews, audio, video, and text files in minutes.
+  <p>
+    <strong>ai.hz.group</strong> and <strong>genai.hz.group</strong> have been sunset.
+    Lizzy now lives at <strong>lizzy.hz.group</strong>.
   </p>
 
-  <a class="btn" href="https://lizzy.hz.group">Go to Lizzy</a>
-
-  <section class="features">
-    <div class="feature">
-      <span class="icon" style="color: var(--orange);">✨</span>
-      <h3>Constantly Evolving</h3>
-      <p>Expanding our toolkit to meet future needs and possibilities.</p>
-    </div>
-    <div class="feature">
-      <span class="icon" style="color: var(--blue);">🛡️</span>
-      <h3>Secure AI Platform</h3>
-      <p>Ensuring data privacy and processing within the EU.</p>
-    </div>
-    <div class="feature">
-      <span class="icon" style="color: var(--pink);">🧠</span>
-      <h3>Empowering Knowledge</h3>
-      <p>Saving you hours daily with intelligent tools.</p>
-    </div>
-  </section>
+  <a class="btn" href="https://lizzy.hz.group">Open Lizzy</a>
 </body>
 </html>
