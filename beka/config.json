@@ -56,5 +56,19 @@
     "o3-deep-research"
   ],
   "hide_intro_when_logged_in": false,
-  "documentation_url": "https://nice-stone-076420803.7.azurestaticapps.net"
+  "documentation_url": "https://nice-stone-076420803.7.azurestaticapps.net",
+  "lizzy_stats_url": "https://lizzy-stats.grayground-8346b010.germanywestcentral.azurecontainerapps.io",
+  "lizzy_stats_frontend_sites": [
+    "https://bekki.beka.de/*"
+  ],
+  "lizzy_stats_backend_sites": [
+    "https://bekka-backend.ashyriver-ec076d01.germanywestcentral.azurecontainerapps.io/*",
+    "https://beka-graph8.happybush-9996e9ea.germanywestcentral.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_agent_search_sites": [
+    "https://bekka-search.proudpond-be039e97.germanywestcentral.azurecontainerapps.io/*"
+  ],
+  "lizzy_stats_backend_server_names": [
+    "bekka-backend--*"
+  ]
 }
