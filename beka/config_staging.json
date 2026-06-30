@@ -3,6 +3,7 @@
     "light": "https://hzdigital.github.io/procurementsuite-config/beka/logo_dark.png",
     "dark": "https://hzdigital.github.io/procurementsuite-config/beka/logo_white.png"
   },
+  "assistant_name": "bekKI",
   "login_logo": "https://hzdigital.github.io/procurementsuite-config/beka/logo_dark.png",
   "landing_cards": {
     "lizzy-chat": {
