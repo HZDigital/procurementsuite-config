@@ -15,5 +15,7 @@
   ],
   "lizzy_stats_backend_server_names": [
     "divi-staging--*"
-  ]
+  ],
+  "hide_file_analyzer": false,
+  "file_analyzer_url": "https://contractanalyzer.mangoisland-acbe099b.germanywestcentral.azurecontainerapps.io"
 }
