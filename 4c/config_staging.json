@@ -21,6 +21,13 @@
       "tag": "Transcription",
       "description": "Transcribe and edit your client interviews and assign names to speakers - all within a 4C secure environment and free of charge."
     },
+    "scheduled-tasks": {
+      "hide": false,
+      "title": "Scheduled Tasks",
+      "tag": "Automation",
+      "description": "Create and manage recurring automated tasks with 4C:me. Schedule jobs to run on your preferred cadence and keep workflows running on time.",
+      "callToAction": "Manage Schedule"
+    },
     "bullseye": {
       "hide": true
     },
