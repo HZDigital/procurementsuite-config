@@ -17,5 +17,6 @@
     "divi-staging--*"
   ],
   "hide_file_analyzer": false,
-  "file_analyzer_url": "https://contractanalyzer.mangoisland-acbe099b.germanywestcentral.azurecontainerapps.io"
+  "file_analyzer_url": "https://contractanalyzer.mangoisland-acbe099b.germanywestcentral.azurecontainerapps.io",
+  "api_forwarder_url": "https://divi-api-forwarder-staging.icydesert-ddbd9380.germanywestcentral.azurecontainerapps.io"
 }

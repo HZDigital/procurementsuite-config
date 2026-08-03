@@ -78,5 +78,6 @@
   ],
   "lizzy_stats_backend_server_names": [
     "genai-4cmi-backend-staging--*"
-  ]
+  ],
+  "api_forwarder_url": "https://api-forwarder-4cme-staging.ashypond-98ad6468.germanywestcentral.azurecontainerapps.io"
 }
